@@ -1,7 +1,9 @@
 #pragma once
 
-void PrintHello();
+using ull = unsigned long long int;
 
-char GetSymbol();
+ull FindFibArr(unsigned int n);
 
-void PrintSymbol(char symbol);
+ull FindFibRec(unsigned int n);
+
+ull FindFib(unsigned int n);
