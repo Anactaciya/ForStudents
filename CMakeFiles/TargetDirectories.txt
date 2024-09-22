@@ -1,0 +1,3 @@
+/home/vega/Anoshin_c++/ForStudents/CMakeFiles/main.dir
+/home/vega/Anoshin_c++/ForStudents/CMakeFiles/edit_cache.dir
+/home/vega/Anoshin_c++/ForStudents/CMakeFiles/rebuild_cache.dir
